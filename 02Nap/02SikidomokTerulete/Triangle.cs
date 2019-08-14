@@ -2,7 +2,7 @@
 
 namespace _02SikidomokTerulete
 {
-    public class Triangle
+    public class Triangle : IPlane
     {
         private int trianglebase;
         private int height;
@@ -13,7 +13,7 @@ namespace _02SikidomokTerulete
             this.height = height;
         }
 
-        internal int Area()
+        public int Area()
         {
             return (trianglebase * height) / 2;
         }

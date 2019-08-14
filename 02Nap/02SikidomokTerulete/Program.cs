@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _02SikidomokTerulete
 {
@@ -25,6 +26,19 @@ namespace _02SikidomokTerulete
             areasum += triangle.Area();
 
             //profibb megoldás
+
+            var planes = new List<IPlane>();
+            planes.Add(square);
+            planes.Add(circle);
+            planes.Add(triangle);
+
+            var sum = 0;
+            foreach (var plane in planes)
+            {
+                sum += plane.Area();
+            }
+
+
             Console.WriteLine($"területek összege:{areasum}");
 
 

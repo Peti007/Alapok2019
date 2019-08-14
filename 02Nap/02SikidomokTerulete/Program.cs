@@ -25,7 +25,7 @@ namespace _02SikidomokTerulete
             areasum += triangle.Area();
 
             //profibb megoldás
-
+            Console.WriteLine($"területek összege:{areasum}");
 
 
             Console.ReadLine();

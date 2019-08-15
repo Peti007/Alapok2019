@@ -1,0 +1,7 @@
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\bin\Debug\01Valtozok.exe.config
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\bin\Debug\01Valtozok.exe
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\bin\Debug\01Valtozok.pdb
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\obj\Debug\01Valtozok.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\obj\Debug\01Valtozok.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\obj\Debug\01Valtozok.exe
+D:\Repos\Alapok2019\01Nap\01Nap\01Valtozok\obj\Debug\01Valtozok.pdb

@@ -33,6 +33,12 @@ namespace _02SikidomokTerulete
             planes.Add(circle);
             planes.Add(triangle);
 
+            foreach (var plane in planes)
+            {
+                Console.WriteLine($"A sikidom neve: {plane.Name}, területe: {plane.Area()}");
+            }
+
+
             //var sum = 0;
             //foreach (var plane in planes)
             //{

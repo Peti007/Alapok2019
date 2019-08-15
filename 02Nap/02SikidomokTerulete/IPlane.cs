@@ -2,6 +2,6 @@
 {
     public interface IPlane
     {
-        int Area();
+        double Area();
     }
 }

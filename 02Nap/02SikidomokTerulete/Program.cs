@@ -28,7 +28,7 @@ namespace _02SikidomokTerulete
 
             //profibb megoldás
 
-            var planes = new List<IPlane>();
+            var planes = new List<Plane>();
             planes.Add(square);
             planes.Add(circle);
             planes.Add(triangle);

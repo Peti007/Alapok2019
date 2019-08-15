@@ -2,13 +2,11 @@
 
 namespace _02SikidomokTerulete
 {
-    public class Plane
+    public abstract class Plane 
     {
 
-        //public int Area()
-        //{
-        ///        return 0;
-        //}
+        public abstract double Area();
+      
 
 
     }

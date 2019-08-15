@@ -6,8 +6,12 @@ namespace _02Ermehamisitas
     {
         static void Main(string[] args)
         {
-            Coin coin = new FakeCoin();
+            var coin = new FakeCoin();
+            DoCollects(coin);
+        }
 
+        private static void DoCollects(Coin coin)
+        {
             Console.WriteLine("Az érmefeldobások eredménye:");
             for (int i = 0; i < 100; i++)
             {

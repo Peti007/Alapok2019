@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\03Nap\01Objektumok\bin\Debug\netcoreapp2.1\01Objektumok.deps.json
+D:\Repos\Alapok2019\03Nap\01Objektumok\bin\Debug\netcoreapp2.1\01Objektumok.runtimeconfig.json
+D:\Repos\Alapok2019\03Nap\01Objektumok\bin\Debug\netcoreapp2.1\01Objektumok.runtimeconfig.dev.json
+D:\Repos\Alapok2019\03Nap\01Objektumok\bin\Debug\netcoreapp2.1\01Objektumok.dll
+D:\Repos\Alapok2019\03Nap\01Objektumok\bin\Debug\netcoreapp2.1\01Objektumok.pdb
+D:\Repos\Alapok2019\03Nap\01Objektumok\obj\Debug\netcoreapp2.1\01Objektumok.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\03Nap\01Objektumok\obj\Debug\netcoreapp2.1\01Objektumok.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\03Nap\01Objektumok\obj\Debug\netcoreapp2.1\01Objektumok.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\03Nap\01Objektumok\obj\Debug\netcoreapp2.1\01Objektumok.AssemblyInfo.cs
+D:\Repos\Alapok2019\03Nap\01Objektumok\obj\Debug\netcoreapp2.1\01Objektumok.dll
+D:\Repos\Alapok2019\03Nap\01Objektumok\obj\Debug\netcoreapp2.1\01Objektumok.pdb

@@ -39,5 +39,10 @@
         /// a konstruktorban írható
         /// </summary>
         public string Email { get; }
+
+        ~Base()
+        {
+            System.Console.WriteLine("véglegesítő: ~Base()");
+        }
     }
 }

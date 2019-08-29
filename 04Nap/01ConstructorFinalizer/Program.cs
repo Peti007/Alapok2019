@@ -6,7 +6,13 @@ namespace _01ConstructorFinalizer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var b = new Base();
+            Console.WriteLine();
+            var m = new Middle();
+            Console.WriteLine();
+            var t = new Third();
+
+            Console.ReadLine();
         }
     }
 }

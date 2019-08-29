@@ -4,7 +4,7 @@
     {
         public Middle()
         {
-            System.Console.WriteLine("Third létrehozó");
+            System.Console.WriteLine("Middle létrehozó: Middle()");
         }
     }
 }

@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\bin\Debug\netcoreapp2.1\02GarbageCollectorExample1.deps.json
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\bin\Debug\netcoreapp2.1\02GarbageCollectorExample1.runtimeconfig.json
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\bin\Debug\netcoreapp2.1\02GarbageCollectorExample1.runtimeconfig.dev.json
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\bin\Debug\netcoreapp2.1\02GarbageCollectorExample1.dll
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\bin\Debug\netcoreapp2.1\02GarbageCollectorExample1.pdb
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\obj\Debug\netcoreapp2.1\02GarbageCollectorExample1.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\obj\Debug\netcoreapp2.1\02GarbageCollectorExample1.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\obj\Debug\netcoreapp2.1\02GarbageCollectorExample1.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\obj\Debug\netcoreapp2.1\02GarbageCollectorExample1.AssemblyInfo.cs
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\obj\Debug\netcoreapp2.1\02GarbageCollectorExample1.dll
+D:\Repos\Alapok2019\04Nap\02GarbageCollectorExample1\obj\Debug\netcoreapp2.1\02GarbageCollectorExample1.pdb

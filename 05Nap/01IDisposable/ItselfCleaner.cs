@@ -53,21 +53,46 @@ namespace _01IDisposable
         /// </summary>
         public void Dispose()
         {
-            //takarítunk
+            Dispose(true);
+
+            //kivesszük a Finalizer queue-ból az osztálypéldányt,
+            //hiszen takarítottunk, nincs már szükség erre
+            //ezzel elérjük, hogy ha jól használjuk a usingot,
+            //akkor a Finalizer sose fog lefutni
+            GC.SuppressFinalize(this);
+        }
+
+
+        /// <summary>
+        /// Az osztály finalizere, ha már nincs a példányra mutató hivatkozás
+        /// akkor egyszer, valalmikor lefut. Feladata, hogy lehetőleg sose fusson.
+        /// </summary>
+        ~ItselfCleaner()
+        {
+            Dispose(false);
+        }
+
+        /// <summary>
+        /// A "valódi" takarító függvény
+        /// </summary>
+        /// <param name="dispose">jelzi, hogy a Dispose függvényből hívtuk (true), vagy a Finalizerből(false).</param>
+        private void Dispose(bool dispose)
+        {
             if (isDisposed)
             {
                 return;
             }
 
+            if (dispose)
+            {//a Dispose-ból hívtuk, így a menedzslet részeket is takarítjuk 
+             //menedzselt IDisposablet használó példány felszabadítása
+                fileStream.Dispose();
+                fileStream = null;
 
-            //menedzselt IDisposablet használó példány felszabadítása
-            fileStream.Dispose();
-            fileStream = null;
-
-            //menedzselt memória felszbadítása
-            managedMemory.Clear();
-            managedMemory = null;
-
+                //menedzselt memória felszbadítása
+                managedMemory.Clear();
+                managedMemory = null;
+            }
 
             //nem menedzslet memória felszabadítása
             Marshal.FreeHGlobal(unmanagedMemory);
@@ -78,11 +103,5 @@ namespace _01IDisposable
             //takarítás
             isDisposed = true;
         }
-
-        ~ItselfCleaner()
-        {
-            Dispose();
-        }
-
     }
 }

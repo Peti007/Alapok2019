@@ -26,6 +26,11 @@ namespace _01ConstructorFinalizer
             Console.WriteLine($"név: {t.Name}, email: {t.Email}");
             Console.WriteLine();
 
+            b = null;
+            m = null;
+            t = null;
+
+            GC.Collect();
 
             Console.ReadLine();
         }

@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\bin\Release\netcoreapp2.1\01ConstructorFinalizer.deps.json
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\bin\Release\netcoreapp2.1\01ConstructorFinalizer.runtimeconfig.json
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\bin\Release\netcoreapp2.1\01ConstructorFinalizer.runtimeconfig.dev.json
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\bin\Release\netcoreapp2.1\01ConstructorFinalizer.dll
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\bin\Release\netcoreapp2.1\01ConstructorFinalizer.pdb
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\obj\Release\netcoreapp2.1\01ConstructorFinalizer.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\obj\Release\netcoreapp2.1\01ConstructorFinalizer.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\obj\Release\netcoreapp2.1\01ConstructorFinalizer.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\obj\Release\netcoreapp2.1\01ConstructorFinalizer.AssemblyInfo.cs
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\obj\Release\netcoreapp2.1\01ConstructorFinalizer.dll
+D:\Repos\Alapok2019\04Nap\01ConstructorFinalizer\obj\Release\netcoreapp2.1\01ConstructorFinalizer.pdb

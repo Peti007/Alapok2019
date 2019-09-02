@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\05Nap\01IDisposable\bin\Debug\netcoreapp2.1\01IDisposable.deps.json
+D:\Repos\Alapok2019\05Nap\01IDisposable\bin\Debug\netcoreapp2.1\01IDisposable.runtimeconfig.json
+D:\Repos\Alapok2019\05Nap\01IDisposable\bin\Debug\netcoreapp2.1\01IDisposable.runtimeconfig.dev.json
+D:\Repos\Alapok2019\05Nap\01IDisposable\bin\Debug\netcoreapp2.1\01IDisposable.dll
+D:\Repos\Alapok2019\05Nap\01IDisposable\bin\Debug\netcoreapp2.1\01IDisposable.pdb
+D:\Repos\Alapok2019\05Nap\01IDisposable\obj\Debug\netcoreapp2.1\01IDisposable.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\05Nap\01IDisposable\obj\Debug\netcoreapp2.1\01IDisposable.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\05Nap\01IDisposable\obj\Debug\netcoreapp2.1\01IDisposable.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\05Nap\01IDisposable\obj\Debug\netcoreapp2.1\01IDisposable.AssemblyInfo.cs
+D:\Repos\Alapok2019\05Nap\01IDisposable\obj\Debug\netcoreapp2.1\01IDisposable.dll
+D:\Repos\Alapok2019\05Nap\01IDisposable\obj\Debug\netcoreapp2.1\01IDisposable.pdb

@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\05Nap\02IEnumerable\bin\Debug\netcoreapp2.1\02IEnumerable.deps.json
+D:\Repos\Alapok2019\05Nap\02IEnumerable\bin\Debug\netcoreapp2.1\02IEnumerable.runtimeconfig.json
+D:\Repos\Alapok2019\05Nap\02IEnumerable\bin\Debug\netcoreapp2.1\02IEnumerable.runtimeconfig.dev.json
+D:\Repos\Alapok2019\05Nap\02IEnumerable\bin\Debug\netcoreapp2.1\02IEnumerable.dll
+D:\Repos\Alapok2019\05Nap\02IEnumerable\bin\Debug\netcoreapp2.1\02IEnumerable.pdb
+D:\Repos\Alapok2019\05Nap\02IEnumerable\obj\Debug\netcoreapp2.1\02IEnumerable.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\05Nap\02IEnumerable\obj\Debug\netcoreapp2.1\02IEnumerable.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\05Nap\02IEnumerable\obj\Debug\netcoreapp2.1\02IEnumerable.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\05Nap\02IEnumerable\obj\Debug\netcoreapp2.1\02IEnumerable.AssemblyInfo.cs
+D:\Repos\Alapok2019\05Nap\02IEnumerable\obj\Debug\netcoreapp2.1\02IEnumerable.dll
+D:\Repos\Alapok2019\05Nap\02IEnumerable\obj\Debug\netcoreapp2.1\02IEnumerable.pdb

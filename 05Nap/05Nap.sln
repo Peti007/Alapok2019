@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01IDisposable", "01IDisposable\01IDisposable.csproj", "{598FBF64-B960-4C3F-968F-E41871A7E3AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01IDisposable", "01IDisposable\01IDisposable.csproj", "{598FBF64-B960-4C3F-968F-E41871A7E3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02IEnumerable", "02IEnumerable\02IEnumerable.csproj", "{FA191201-DEDA-4144-B306-EE2E4D9C20E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{598FBF64-B960-4C3F-968F-E41871A7E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{598FBF64-B960-4C3F-968F-E41871A7E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{598FBF64-B960-4C3F-968F-E41871A7E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA191201-DEDA-4144-B306-EE2E4D9C20E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA191201-DEDA-4144-B306-EE2E4D9C20E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA191201-DEDA-4144-B306-EE2E4D9C20E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA191201-DEDA-4144-B306-EE2E4D9C20E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

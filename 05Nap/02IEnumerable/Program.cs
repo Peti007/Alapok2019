@@ -12,7 +12,20 @@ namespace _02IEnumerable
                 Console.WriteLine(item);
             }
 
+            var shoppingList = new List<string> { "só", "bors", "cukor" };
+
+            foreach (var item in shoppingList)
+            {
+                shoppingList.Remove(item);
+            }
+            //nekünk kell az implementációban azzal foglalkozni, ha az adatok megváltoznak!
+
+            //ha változik a lista akkor dob egy kivételt
+            //saját osztályunk gondoskodik arról, hogyha változik a belső állapot, akkor a futó bejárások ne fussanak hibás helyzetbe
+
+
             Console.ReadLine();
+
         }
 
         private static IEnumerable<string> ShoppingList()
@@ -30,5 +43,9 @@ namespace _02IEnumerable
             Main(new string[] { });
 
         }
+
+        
+
+
     }
 }

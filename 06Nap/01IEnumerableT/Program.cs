@@ -13,9 +13,16 @@ namespace _01IEnumerableT
 
             adatok.Add(adat);
             adatok.Add(new Adat(szam: 2, szoveg: "Só"));
-            adatok.Add(new Adat(szam: 2, szoveg: "Burgonya"));
-            adatok.Add(new Adat(szam: 2, szoveg: "Pirospaprika"));
-         
+            adatok.Add(new Adat(szam: 3, szoveg: "Burgonya"));  
+            adatok.Add(new Adat(szam: 4, szoveg: "Pirospaprika"));
+
+            foreach (var item in adatok)
+            {
+                adatok.Remove(item);
+                Console.WriteLine($"Adat szám: {item.Szam}, szöveg: {item.Szoveg}");
+            }
+
+
             Console.ReadLine();
         }
     }

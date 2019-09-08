@@ -1,0 +1,7 @@
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\bin\Debug\03ExceptionDotNetFramework.exe.config
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\bin\Debug\03ExceptionDotNetFramework.exe
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\bin\Debug\03ExceptionDotNetFramework.pdb
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\obj\Debug\03ExceptionDotNetFramework.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\obj\Debug\03ExceptionDotNetFramework.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\obj\Debug\03ExceptionDotNetFramework.exe
+D:\Repos\Alapok2019\07Nap\03ExceptionDotNetFramework\obj\Debug\03ExceptionDotNetFramework.pdb

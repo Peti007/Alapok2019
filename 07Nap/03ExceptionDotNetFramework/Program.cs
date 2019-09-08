@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace _02Exeptions
+namespace _03ExceptionDotNetFramework
 {
     class Program
     {
@@ -12,7 +16,7 @@ namespace _02Exeptions
                 FoProgram();
                 Console.WriteLine("Main try végez");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine("Main catch indul");
                 Console.WriteLine($"Main: {ex.ToString()}");
@@ -29,7 +33,7 @@ namespace _02Exeptions
 
         private static void FoProgram()
         {
-           
+
             try
             {
                 Console.WriteLine("FoProgram try indul");
@@ -55,7 +59,7 @@ namespace _02Exeptions
             try
             {
                 Console.WriteLine("Alprogram try indul");
-                throw new ConfuseCurrencyException("Euró utalást kellene végezni, de a megadott számla HUF!");
+                throw new Exception("Euró utalást kellene végezni, de a megadott számla HUF!");
                 Console.WriteLine("Alprogram try végez");
             }
             catch (Exception ex)

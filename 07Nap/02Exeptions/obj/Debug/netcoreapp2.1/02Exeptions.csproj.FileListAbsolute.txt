@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\07Nap\02Exeptions\bin\Debug\netcoreapp2.1\02Exeptions.deps.json
+D:\Repos\Alapok2019\07Nap\02Exeptions\bin\Debug\netcoreapp2.1\02Exeptions.runtimeconfig.json
+D:\Repos\Alapok2019\07Nap\02Exeptions\bin\Debug\netcoreapp2.1\02Exeptions.runtimeconfig.dev.json
+D:\Repos\Alapok2019\07Nap\02Exeptions\bin\Debug\netcoreapp2.1\02Exeptions.dll
+D:\Repos\Alapok2019\07Nap\02Exeptions\bin\Debug\netcoreapp2.1\02Exeptions.pdb
+D:\Repos\Alapok2019\07Nap\02Exeptions\obj\Debug\netcoreapp2.1\02Exeptions.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\07Nap\02Exeptions\obj\Debug\netcoreapp2.1\02Exeptions.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\07Nap\02Exeptions\obj\Debug\netcoreapp2.1\02Exeptions.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\07Nap\02Exeptions\obj\Debug\netcoreapp2.1\02Exeptions.AssemblyInfo.cs
+D:\Repos\Alapok2019\07Nap\02Exeptions\obj\Debug\netcoreapp2.1\02Exeptions.dll
+D:\Repos\Alapok2019\07Nap\02Exeptions\obj\Debug\netcoreapp2.1\02Exeptions.pdb

@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\06Nap",
-    "\\06Nap\\01IEnumerableT",
-    "\\06Nap\\02Exceptions"
+    "\\07Nap\\06Log4Net\\bin",
+    "\\07Nap\\06Log4Net\\bin\\Debug",
+    "\\08Nap\\06Log4Net"
   ],
-  "SelectedNode": "\\07Nap",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

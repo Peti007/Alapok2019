@@ -40,7 +40,7 @@ namespace _06Log4Net
                 }
                 if (level>=85 && level<95)
                 {
-                    log.Error($"Erro üzenet: {level}");
+                    log.Error($"Error üzenet: {level}");
                 }
 
                 if (level>=95)

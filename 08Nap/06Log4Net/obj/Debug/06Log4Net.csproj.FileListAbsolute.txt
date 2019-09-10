@@ -8,3 +8,13 @@ D:\Repos\Alapok2019\07Nap\06Log4Net\obj\Debug\06Log4Net.csproj.CoreCompileInputs
 D:\Repos\Alapok2019\07Nap\06Log4Net\obj\Debug\06Log4Net.csproj.CopyComplete
 D:\Repos\Alapok2019\07Nap\06Log4Net\obj\Debug\06Log4Net.exe
 D:\Repos\Alapok2019\07Nap\06Log4Net\obj\Debug\06Log4Net.pdb
+D:\Repos\Alapok2019\08Nap\06Log4Net\bin\Debug\06Log4Net.exe.config
+D:\Repos\Alapok2019\08Nap\06Log4Net\bin\Debug\06Log4Net.exe
+D:\Repos\Alapok2019\08Nap\06Log4Net\bin\Debug\06Log4Net.pdb
+D:\Repos\Alapok2019\08Nap\06Log4Net\bin\Debug\log4net.dll
+D:\Repos\Alapok2019\08Nap\06Log4Net\bin\Debug\log4net.xml
+D:\Repos\Alapok2019\08Nap\06Log4Net\obj\Debug\06Log4Net.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\08Nap\06Log4Net\obj\Debug\06Log4Net.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\08Nap\06Log4Net\obj\Debug\06Log4Net.csproj.CopyComplete
+D:\Repos\Alapok2019\08Nap\06Log4Net\obj\Debug\06Log4Net.exe
+D:\Repos\Alapok2019\08Nap\06Log4Net\obj\Debug\06Log4Net.pdb

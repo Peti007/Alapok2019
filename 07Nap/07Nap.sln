@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02Exeptions", "02Exeptions\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ExceptionDotNetFramework", "03ExceptionDotNetFramework\03ExceptionDotNetFramework.csproj", "{1578FDF9-5958-4841-8CCD-8289E88DFC37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04ExceptionPerformance", "04ExceptionPerformance\04ExceptionPerformance.csproj", "{3125BD43-BB2A-453C-AD31-47C61F6B7058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05ExpectionPerformanceDotNetFw", "05ExpectionPerformanceDotNetFw\05ExpectionPerformanceDotNetFw.csproj", "{94B1B2BC-C536-4ABC-B89F-8871138B1F13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1578FDF9-5958-4841-8CCD-8289E88DFC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1578FDF9-5958-4841-8CCD-8289E88DFC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1578FDF9-5958-4841-8CCD-8289E88DFC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3125BD43-BB2A-453C-AD31-47C61F6B7058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3125BD43-BB2A-453C-AD31-47C61F6B7058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3125BD43-BB2A-453C-AD31-47C61F6B7058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3125BD43-BB2A-453C-AD31-47C61F6B7058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B1B2BC-C536-4ABC-B89F-8871138B1F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B1B2BC-C536-4ABC-B89F-8871138B1F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B1B2BC-C536-4ABC-B89F-8871138B1F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B1B2BC-C536-4ABC-B89F-8871138B1F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

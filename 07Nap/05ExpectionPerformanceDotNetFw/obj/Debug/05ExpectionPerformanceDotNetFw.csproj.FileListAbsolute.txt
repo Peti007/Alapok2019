@@ -1,0 +1,7 @@
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\bin\Debug\05ExpectionPerformanceDotNetFw.exe.config
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\bin\Debug\05ExpectionPerformanceDotNetFw.exe
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\bin\Debug\05ExpectionPerformanceDotNetFw.pdb
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\obj\Debug\05ExpectionPerformanceDotNetFw.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\obj\Debug\05ExpectionPerformanceDotNetFw.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\obj\Debug\05ExpectionPerformanceDotNetFw.exe
+D:\Repos\Alapok2019\07Nap\05ExpectionPerformanceDotNetFw\obj\Debug\05ExpectionPerformanceDotNetFw.pdb

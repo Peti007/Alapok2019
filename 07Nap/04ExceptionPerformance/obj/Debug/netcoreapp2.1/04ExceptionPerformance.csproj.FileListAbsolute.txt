@@ -1,0 +1,10 @@
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.deps.json
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.runtimeconfig.json
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.runtimeconfig.dev.json
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.dll
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\bin\Debug\netcoreapp2.1\04ExceptionPerformance.pdb
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.AssemblyInfo.cs
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.dll
+D:\Repos\Alapok2019\07Nap\04ExceptionPerformance\obj\Debug\netcoreapp2.1\04ExceptionPerformance.pdb

@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\08Nap\07Serilog\bin\Debug\netcoreapp2.1\07Serilog.deps.json
+D:\Repos\Alapok2019\08Nap\07Serilog\bin\Debug\netcoreapp2.1\07Serilog.runtimeconfig.json
+D:\Repos\Alapok2019\08Nap\07Serilog\bin\Debug\netcoreapp2.1\07Serilog.runtimeconfig.dev.json
+D:\Repos\Alapok2019\08Nap\07Serilog\bin\Debug\netcoreapp2.1\07Serilog.dll
+D:\Repos\Alapok2019\08Nap\07Serilog\bin\Debug\netcoreapp2.1\07Serilog.pdb
+D:\Repos\Alapok2019\08Nap\07Serilog\obj\Debug\netcoreapp2.1\07Serilog.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\08Nap\07Serilog\obj\Debug\netcoreapp2.1\07Serilog.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\08Nap\07Serilog\obj\Debug\netcoreapp2.1\07Serilog.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\08Nap\07Serilog\obj\Debug\netcoreapp2.1\07Serilog.AssemblyInfo.cs
+D:\Repos\Alapok2019\08Nap\07Serilog\obj\Debug\netcoreapp2.1\07Serilog.dll
+D:\Repos\Alapok2019\08Nap\07Serilog\obj\Debug\netcoreapp2.1\07Serilog.pdb

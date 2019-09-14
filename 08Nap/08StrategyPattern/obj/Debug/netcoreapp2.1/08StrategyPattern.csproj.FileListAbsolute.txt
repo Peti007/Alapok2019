@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.deps.json
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.runtimeconfig.json
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.runtimeconfig.dev.json
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.dll
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\bin\Debug\netcoreapp2.1\08StrategyPattern.pdb
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.AssemblyInfo.cs
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.dll
+D:\Repos\Alapok2019\08Nap\08StrategyPattern\obj\Debug\netcoreapp2.1\08StrategyPattern.pdb

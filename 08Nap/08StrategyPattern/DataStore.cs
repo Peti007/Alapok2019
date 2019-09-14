@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace _08StrategyPattern
 {
-    internal class DataStore
+    public class DataStore
     {
         private int[] data;
 

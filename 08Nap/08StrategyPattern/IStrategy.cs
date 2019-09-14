@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _08StrategyPattern
 {
-    interface IStrategy
+    public interface IStrategy
     {
         int Process(int[] data);
     }

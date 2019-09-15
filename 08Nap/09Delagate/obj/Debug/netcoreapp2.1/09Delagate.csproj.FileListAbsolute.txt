@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\08Nap\09Delagate\bin\Debug\netcoreapp2.1\09Delagate.deps.json
+D:\Repos\Alapok2019\08Nap\09Delagate\bin\Debug\netcoreapp2.1\09Delagate.runtimeconfig.json
+D:\Repos\Alapok2019\08Nap\09Delagate\bin\Debug\netcoreapp2.1\09Delagate.runtimeconfig.dev.json
+D:\Repos\Alapok2019\08Nap\09Delagate\bin\Debug\netcoreapp2.1\09Delagate.dll
+D:\Repos\Alapok2019\08Nap\09Delagate\bin\Debug\netcoreapp2.1\09Delagate.pdb
+D:\Repos\Alapok2019\08Nap\09Delagate\obj\Debug\netcoreapp2.1\09Delagate.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\08Nap\09Delagate\obj\Debug\netcoreapp2.1\09Delagate.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\08Nap\09Delagate\obj\Debug\netcoreapp2.1\09Delagate.AssemblyInfo.cs
+D:\Repos\Alapok2019\08Nap\09Delagate\obj\Debug\netcoreapp2.1\09Delagate.dll
+D:\Repos\Alapok2019\08Nap\09Delagate\obj\Debug\netcoreapp2.1\09Delagate.pdb
+D:\Repos\Alapok2019\08Nap\09Delagate\obj\Debug\netcoreapp2.1\09Delagate.csprojAssemblyReference.cache

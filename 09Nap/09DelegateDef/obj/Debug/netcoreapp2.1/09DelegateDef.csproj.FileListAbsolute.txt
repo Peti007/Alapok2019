@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.deps.json
+D:\Repos\Alapok2019\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.runtimeconfig.json
+D:\Repos\Alapok2019\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.runtimeconfig.dev.json
+D:\Repos\Alapok2019\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.dll
+D:\Repos\Alapok2019\09Nap\09DelegateDef\bin\Debug\netcoreapp2.1\09DelegateDef.pdb
+D:\Repos\Alapok2019\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.AssemblyInfo.cs
+D:\Repos\Alapok2019\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.dll
+D:\Repos\Alapok2019\09Nap\09DelegateDef\obj\Debug\netcoreapp2.1\09DelegateDef.pdb

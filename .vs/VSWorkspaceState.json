@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\06Nap\\01IEnumerableT",
-    "\\08Nap",
     "\\08Nap\\06Log4Net",
-    "\\08Nap\\07Serilog"
+    "\\08Nap\\07Serilog",
+    "\\08Nap\\09Delagate",
+    "\\09Nap\\10DelegateExample"
   ],
-  "SelectedNode": "\\08Nap",
+  "SelectedNode": "\\09Nap",
   "PreviewInSolutionExplorer": false
 }

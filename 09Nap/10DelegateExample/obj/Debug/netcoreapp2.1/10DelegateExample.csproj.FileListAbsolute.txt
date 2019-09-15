@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.deps.json
+D:\Repos\Alapok2019\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.runtimeconfig.json
+D:\Repos\Alapok2019\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.runtimeconfig.dev.json
+D:\Repos\Alapok2019\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.dll
+D:\Repos\Alapok2019\09Nap\10DelegateExample\bin\Debug\netcoreapp2.1\10DelegateExample.pdb
+D:\Repos\Alapok2019\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.AssemblyInfo.cs
+D:\Repos\Alapok2019\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.dll
+D:\Repos\Alapok2019\09Nap\10DelegateExample\obj\Debug\netcoreapp2.1\10DelegateExample.pdb

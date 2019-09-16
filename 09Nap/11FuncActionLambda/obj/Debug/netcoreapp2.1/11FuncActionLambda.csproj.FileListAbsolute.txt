@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.deps.json
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.runtimeconfig.json
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.runtimeconfig.dev.json
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.dll
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\bin\Debug\netcoreapp2.1\11FuncActionLambda.pdb
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.AssemblyInfo.cs
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.dll
+D:\Repos\Alapok2019\09Nap\11FuncActionLambda\obj\Debug\netcoreapp2.1\11FuncActionLambda.pdb

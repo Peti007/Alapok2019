@@ -14,7 +14,7 @@ namespace _01ObserverPattern
             var ui = new UserInterface();
 
             //hosszantartó folyamat
-            var process = new LongRunningProcess(log, ui);
+            var process = new LongRunningProcess();
 
             process.Start();
 

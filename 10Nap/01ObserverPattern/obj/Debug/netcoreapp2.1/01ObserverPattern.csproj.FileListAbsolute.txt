@@ -8,3 +8,4 @@ D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPa
 D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.AssemblyInfo.cs
 D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.dll
 D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.pdb
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.csprojAssemblyReference.cache

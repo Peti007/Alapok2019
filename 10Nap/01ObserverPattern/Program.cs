@@ -16,7 +16,14 @@ namespace _01ObserverPattern
             //hosszantartó folyamat
             var process = new LongRunningProcess();
 
+
+            process.Subscribe(log);
+            process.Subscribe(ui);
+
             process.Start();
+
+            process.Unsubscribe(log);
+            process.Unsubscribe(ui);
 
             Console.WriteLine("A folyamat lefutott!");
             Console.ReadLine();

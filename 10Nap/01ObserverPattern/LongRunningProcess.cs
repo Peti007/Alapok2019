@@ -1,16 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 
 namespace _01ObserverPattern
 {
     public class LongRunningProcess
     {
-        private readonly IMessage[] observers;
+        private readonly List<IMessage> observers = new List<IMessage>();
 
-        public LongRunningProcess(params IMessage[] observers)
-        {
-            this.observers = observers ?? throw new ArgumentNullException(nameof(observers));
-        }
+
+
+
+
+        //public LongRunningProcess(params IMessage[] observers)
+        //{
+        //    this.observers = observers ?? throw new ArgumentNullException(nameof(observers));
+        //}
 
         public void Start()
         {
@@ -29,6 +34,16 @@ namespace _01ObserverPattern
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 100%");
             SendMessage(100);
+        }
+
+        public void Subscribe(IMessage observer)
+        {
+            observers.Add(observer);
+        }
+
+        public void Unsubscribe(IMessage observer)
+        {
+            observers.Remove(observer);
         }
 
         private  void SendMessage(int data)

@@ -19,9 +19,11 @@ namespace _01ObserverPattern
             process.ObserverCallList += log.Message;
             process.ObserverCallList += ui.Message;
 
-    
+            //process.ObserverCallList = null;
 
-            process.Start();
+           // process.ObserverCallList(new LongRunningProcess());
+
+           process.Start();
 
             process.ObserverCallList -= log.Message;
             process.ObserverCallList -= ui.Message;

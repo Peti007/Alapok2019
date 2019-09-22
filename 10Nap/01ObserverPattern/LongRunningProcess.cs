@@ -21,29 +21,40 @@ namespace _01ObserverPattern
         {
             Console.WriteLine("LongRunningProcess: 0%");
             Data = 0;
-            SendMessage();
-
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 25%");
             Data = 25;
-            SendMessage();
+
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 50%");
             Data = 50;
-            SendMessage();
+
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 75%");
             Data = 75;
-            SendMessage();
+
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 100%");
             Data = 100;
-            Text = "Végeztem";
-            SendMessage();
+
+
         }
 
-        public int Data { get; set; }
 
+        private int data;
+        public int Data
+        {
+            get { return data; }
+            set
+            {
+                if (data == value) //ha nem változott ne értesítsünk
+                {
+                    return;
+                }
+                data = value;
+                SendMessage();
+            }
+        }
 
         public string Text { get; set; }
 

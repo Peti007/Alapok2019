@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.deps.json
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.runtimeconfig.json
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.runtimeconfig.dev.json
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.dll
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\bin\Debug\netcoreapp2.1\01ObserverPattern.pdb
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.AssemblyInfo.cs
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.dll
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.pdb
+D:\Repos\Alapok2019\10Nap\01ObserverPattern\obj\Debug\netcoreapp2.1\01ObserverPattern.csprojAssemblyReference.cache

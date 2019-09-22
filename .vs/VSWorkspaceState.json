@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\10Nap",
+    "\\01Nap\\01Nap",
+    "\\01Nap\\01Nap\\01Valtozok",
     "\\10Nap\\01ObserverPattern"
   ],
-  "SelectedNode": "\\10Nap\\01ObserverPattern\\LongRunningProcess.cs",
+  "SelectedNode": "\\10Nap",
   "PreviewInSolutionExplorer": false
 }

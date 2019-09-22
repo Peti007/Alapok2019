@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.deps.json
+D:\Repos\Alapok2019\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.runtimeconfig.json
+D:\Repos\Alapok2019\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.runtimeconfig.dev.json
+D:\Repos\Alapok2019\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.dll
+D:\Repos\Alapok2019\10Nap\02Events\bin\Debug\netcoreapp2.1\02Events.pdb
+D:\Repos\Alapok2019\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.AssemblyInfo.cs
+D:\Repos\Alapok2019\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.dll
+D:\Repos\Alapok2019\10Nap\02Events\obj\Debug\netcoreapp2.1\02Events.pdb

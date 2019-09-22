@@ -4,9 +4,9 @@ using System.Threading;
 
 namespace _01ObserverPattern
 {
-    public class LongRunningProcess
+    public class LongRunningProcess :IMessage
     {
-        private readonly List<IMessage> observers = new List<IMessage>();
+        private readonly List<INotifiable> observers = new List<INotifiable>();
 
 
 
@@ -20,37 +20,48 @@ namespace _01ObserverPattern
         public void Start()
         {
             Console.WriteLine("LongRunningProcess: 0%");
-            SendMessage(0);
+            Data = 0;
+            SendMessage();
 
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 25%");
-            SendMessage(25);
+            Data = 25;
+            SendMessage();
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 50%");
-            SendMessage(50);
+            Data = 50;
+            SendMessage();
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 75%");
-            SendMessage(75);
+            Data = 75;
+            SendMessage();
             Thread.Sleep(1000);
             Console.WriteLine("LongRunningProcess: 100%");
-            SendMessage(100);
+            Data = 100;
+            Text = "Végeztem";
+            SendMessage();
         }
 
-        public void Subscribe(IMessage observer)
+        public int Data { get; set; }
+
+
+        public string Text { get; set; }
+
+        public void Subscribe(INotifiable observer)
         {
             observers.Add(observer);
         }
 
-        public void Unsubscribe(IMessage observer)
+        public void Unsubscribe(INotifiable observer)
         {
             observers.Remove(observer);
         }
 
-        private  void SendMessage(int data)
+        private  void SendMessage()
         {
             foreach (var observer in observers)
             {
-                observer.Message(data);
+                observer.Message(this);
             }
         }
     }

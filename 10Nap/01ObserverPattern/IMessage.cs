@@ -2,6 +2,7 @@
 {
     public interface IMessage
     {
-        void Message(int data);
-}
+        int Data { get; set; }
+        string Text { get; set; }
+    }
 }

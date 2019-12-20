@@ -3,8 +3,11 @@
     "",
     "\\01Nap\\01Nap",
     "\\01Nap\\01Nap\\01Valtozok",
-    "\\10Nap\\01ObserverPattern"
+    "\\11Nap\\02SerializeDeserialize",
+    "\\11Nap\\02SerializeDeserialize\\bin",
+    "\\11Nap\\02SerializeDeserialize\\bin\\Debug",
+    "\\11Nap\\02SerializeDeserialize\\bin\\Debug\\netcoreapp2.1"
   ],
-  "SelectedNode": "\\10Nap",
+  "SelectedNode": "\\11Nap",
   "PreviewInSolutionExplorer": false
 }

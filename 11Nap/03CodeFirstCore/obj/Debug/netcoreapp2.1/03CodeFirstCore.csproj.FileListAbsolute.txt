@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.deps.json
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.runtimeconfig.json
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.runtimeconfig.dev.json
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.dll
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.AssemblyInfo.cs
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\bin\Debug\netcoreapp2.1\03CodeFirstCore.pdb
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.dll
+D:\Repos\Alapok2019\11Nap\03CodeFirstCore\obj\Debug\netcoreapp2.1\03CodeFirstCore.pdb

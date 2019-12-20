@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.deps.json
+D:\Repos\Alapok2019\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.runtimeconfig.json
+D:\Repos\Alapok2019\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.runtimeconfig.dev.json
+D:\Repos\Alapok2019\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.dll
+D:\Repos\Alapok2019\11Nap\01LocalData\bin\Debug\netcoreapp2.1\01LocalData.pdb
+D:\Repos\Alapok2019\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.AssemblyInfo.cs
+D:\Repos\Alapok2019\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.dll
+D:\Repos\Alapok2019\11Nap\01LocalData\obj\Debug\netcoreapp2.1\01LocalData.pdb

@@ -1,0 +1,2 @@
+﻿nyilván szöveget mindenképpen tudok írni, illetve speciális karaktereket 
+, ASCII q, unicode karakter s, karkatertömb szöveg: '

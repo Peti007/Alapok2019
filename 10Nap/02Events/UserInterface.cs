@@ -8,11 +8,13 @@ namespace _01ObserverPattern
         //{
         //    Console.WriteLine($"UserInterface: {data.Data}");
         //}
-        internal void Message(object sender, string e)
+        public void Message(object sender, EventDto e)
         {
+            //részletes adatoknál kell a típuskonverzió
             var data = (LongRunningProcess)sender;
 
-            Console.WriteLine($"UserInterface: {data.Data}");
+            //ha csak a kiemelt adatokra van szükség
+            Console.WriteLine($"Logger: {e.Data}");
         }
     }
 }

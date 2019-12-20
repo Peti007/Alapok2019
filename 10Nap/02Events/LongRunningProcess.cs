@@ -4,7 +4,7 @@ using System.Threading;
 
 namespace _01ObserverPattern
 {
-    public class LongRunningProcess 
+    public class LongRunningProcess
     {
 
 
@@ -24,12 +24,20 @@ namespace _01ObserverPattern
         // a.) csak void típusú függvényt definiál
         // b.) ezt a híváslistát nem lehet az osztályon kívülről meghívni
         //c.) ezt a havíáslistát nem lehet osztályon kivűlről inicializálni (= művelet)
-        public event EventHandler<string> DataChanged;
+
+
+
+
+        public event EventHandler<EventDto> DataChanged;
+
         //a függvénynek két paramétere van minden esetben:
         //obeject sender,
         //és
         //T e
         //az első kötelező, a másikat a generikus paraméter jelöli ki
+        //mindenképpen Dto-t kell definiálni
+        //ha nem akarok paramétert kiemeleni, akkor ez egy üres definició
+        //public event EventHandler<EventArgs> DataChanged;
 
         //public LongRunningProcess(params IMessage[] observers)
         //{
@@ -77,18 +85,31 @@ namespace _01ObserverPattern
 
         public string Text { get; set; }
 
-        
-        private  void SendMessage()
+
+        /// <summary>
+        /// Az eseménylista hívását beburkoljuk egy private függvénybe
+        /// </summary>
+        /// <param name="data"></param>
+        private void OnDataChanged(int data)
         {
             var callList = DataChanged;
 
-            if (callList!=null)
+            if (callList != null)
             {
-                callList(this, "ez itt egy esemény");
+                //ha nincs kiemelt paraméter, akkor így hívunk:
+                // callList(this,EventArgs.Empty);
+
+                //this = az osztálypéldány referenciája
+                callList(this, new EventDto(data));
+                //gyorsabban ugyanez
+                //ObserverCallList?.Invoke(this);
             }
-            //gyorsabban ugyanez
-            //ObserverCallList?.Invoke(this);
-           
+        }
+        
+        private  void SendMessage()
+        {
+            OnDataChanged(Data);
+
         }
     }
 }

@@ -1,0 +1,11 @@
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.deps.json
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.runtimeconfig.json
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.runtimeconfig.dev.json
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.dll
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\bin\Debug\netcoreapp2.1\02SerializeDeserialize.pdb
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.AssemblyInfoInputs.cache
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.AssemblyInfo.cs
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.dll
+D:\Repos\Alapok2019\11Nap\02SerializeDeserialize\obj\Debug\netcoreapp2.1\02SerializeDeserialize.pdb

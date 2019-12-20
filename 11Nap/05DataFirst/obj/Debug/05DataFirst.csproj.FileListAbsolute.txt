@@ -1,0 +1,12 @@
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\05DataFirst.exe.config
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\05DataFirst.exe
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\05DataFirst.pdb
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\EntityFramework.dll
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\EntityFramework.xml
+D:\Repos\Alapok2019\11Nap\05DataFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\Alapok2019\11Nap\05DataFirst\obj\Debug\05DataFirst.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\11Nap\05DataFirst\obj\Debug\05DataFirst.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\11Nap\05DataFirst\obj\Debug\05DataFirst.csproj.CopyComplete
+D:\Repos\Alapok2019\11Nap\05DataFirst\obj\Debug\05DataFirst.exe
+D:\Repos\Alapok2019\11Nap\05DataFirst\obj\Debug\05DataFirst.pdb

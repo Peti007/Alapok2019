@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01LocalData", "01LocalData\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02SerializeDeserialize", "02SerializeDeserialize\02SerializeDeserialize.csproj", "{4083AB1D-C366-4013-B576-480BC08B244C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CodeFirstCore", "03CodeFirstCore\03CodeFirstCore.csproj", "{C8C31716-6C25-483F-9B26-BBABAA2BF2E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03CodeFirstCore", "03CodeFirstCore\03CodeFirstCore.csproj", "{C8C31716-6C25-483F-9B26-BBABAA2BF2E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04DataFirstCore", "04DataFirstCore\04DataFirstCore.csproj", "{EDAE2138-A0E4-4C1B-B98B-EFE410361EA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04DataFirstCore", "04DataFirstCore\04DataFirstCore.csproj", "{EDAE2138-A0E4-4C1B-B98B-EFE410361EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05DataFirst", "05DataFirst\05DataFirst.csproj", "{8C36279A-B950-4BBD-B1B9-A00FCA5F03CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EDAE2138-A0E4-4C1B-B98B-EFE410361EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDAE2138-A0E4-4C1B-B98B-EFE410361EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDAE2138-A0E4-4C1B-B98B-EFE410361EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C36279A-B950-4BBD-B1B9-A00FCA5F03CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C36279A-B950-4BBD-B1B9-A00FCA5F03CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C36279A-B950-4BBD-B1B9-A00FCA5F03CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C36279A-B950-4BBD-B1B9-A00FCA5F03CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

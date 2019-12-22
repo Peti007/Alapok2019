@@ -1,0 +1,6 @@
+D:\Repos\Alapok2019\11Nap\06AdoNet.DataAccess\bin\Debug\06AdoNet.DataAccess.dll
+D:\Repos\Alapok2019\11Nap\06AdoNet.DataAccess\bin\Debug\06AdoNet.DataAccess.pdb
+D:\Repos\Alapok2019\11Nap\06AdoNet.DataAccess\obj\Debug\06AdoNet.DataAccess.csprojAssemblyReference.cache
+D:\Repos\Alapok2019\11Nap\06AdoNet.DataAccess\obj\Debug\06AdoNet.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repos\Alapok2019\11Nap\06AdoNet.DataAccess\obj\Debug\06AdoNet.DataAccess.dll
+D:\Repos\Alapok2019\11Nap\06AdoNet.DataAccess\obj\Debug\06AdoNet.DataAccess.pdb
